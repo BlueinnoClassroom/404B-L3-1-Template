@@ -1,4 +1,4 @@
-# 404B Lesson 2 Class Exercise - Nested For Loop
+# 404B Lesson 3 Class Exercise - If/Else Conditionals
 
 ## Instructions
 
